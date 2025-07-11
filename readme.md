@@ -33,7 +33,7 @@ python3 list_tool.py --path <caminho> [opções]
 | `--output`      | (Opcional) Salva a listagem em um arquivo de saída                               |
 
 
-## 📌 Exemplos
+## Exemplos
 
 ### 1. Listar tudo com conteúdo
 ```
@@ -56,7 +56,7 @@ python3 list_tool.py --path ./docs --folder-only
 
 ----------
 
-## 📄 Formato do Arquivo de Ignore
+## Formato do Arquivo de Ignore
 
 Cada linha deve conter um **nome de arquivo ou diretório** a ser ignorado (sem path completo):
 
@@ -69,7 +69,7 @@ arquivo_temporario.txt
 
 ----------
 
-## 💬 Mensagens do Script
+## Mensagens do Script
 
 -   `[OK] Resultado salvo em: <arquivo>`
     
